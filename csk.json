@@ -2,151 +2,151 @@
   {
     "id": "1",
     "name": "MS dhoni",
-    "postion": "wicket-keeper",
+    "position": "wicket-keeper",
     "image": "https://s.ndtvimg.com/images/entities/300/ms-dhoni-700.png"
   },
   {
     "id": "2",
     "name": "A avanish",
-    "postion": "wicket-keeper",
+    "position": "wicket-keeper",
     "image": "https://wassets.hscicdn.com/static/images/player-jersey.svg"
   },
   {
     "id": "3",
     "name": "Devon Conway",
-    "postion": "wicket-keeper",
+    "position": "wicket-keeper",
     "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/318500/318588.1.jpg"
   },
   {
     "id": "4",
     "name": "Ruturaj Gaikwad",
-    "postion": "batter",
+    "position": "batter",
     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/356700/356779.1.png"
   },
   {
     "id": "5",
     "name": "Ajinkya Rahane",
-    "postion": "batter",
+    "position": "batter",
     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/312100/312159.png"
   },
   {
     "id": "6",
     "name": "shaik Rasheed",
-    "postion": "batter",
+    "position": "batter",
     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/312100/312159.png"
   },
   {
     "id": "7",
     "name": "Moeen Ali",
-    "postion": "all-rounder",
+    "position": "all-rounder",
     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/289600/289661.1.jpg"
   },
   {
     "id": "8",
     "name": "Shivam dube",
-    "postion": "all-rounder",
+    "position": "all-rounder",
     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/356700/356768.1.png"
   },
   {
     "id": "9",
     "name": "Rajvardhan Hangargekar",
-    "postion": "all-rounder",
+    "position": "all-rounder",
     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/336200/336292.4.jpg"
   },
   {
     "id": "10",
     "name": "Ravindra Jadeja",
-    "postion": "all-rounder",
+    "position": "all-rounder",
     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/302300/302394.jpg"
   },
   {
     "id": "11",
     "name": "Ajay Mandal",
-    "postion": "all-rounder",
+    "position": "all-rounder",
     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/314900/314902.jpg"
   },
   {
     "id": "12",
     "name": "Daryl Mitchell",
-    "postion": "all-rounder",
+    "position": "all-rounder",
     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/303500/303598.jpg"
   },
   {
     "id": "13",
     "name": "Rachin Ravindra",
-    "postion": "all-rounder",
+    "position": "all-rounder",
     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/271800/271809.jpg"
   },
   {
     "id": "14",
     "name": "Mitchell Santner",
-    "postion": "all-rounder",
+    "position": "all-rounder",
     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/356800/356846.1.png"
   },
   {
     "id": "15",
     "name": "Nishant Sindhu",
-    "postion": "all-rounder",
+    "position": "all-rounder",
     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/338200/338260.4.jpg"
   },
   {
     "id": "16",
     "name": "Deepak Chahar",
-    "postion": "bowler",
+    "position": "bowler",
     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/315000/315014.jpg"
   },
   {
     "id": "17",
     "name": "Tushar Deshpande",
-    "postion": "bowler",
+    "position": "bowler",
     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/310600/310643.jpg"
   },
   {
     "id": "18",
     "name": "Mukesh Choudhary",
-    "postion": "bowler",
+    "position": "bowler",
     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/356800/356834.1.png"
   },
   {
     "id": "19",
     "name": "Mustafizur Rahman",
-    "postion": "bowler",
+    "position": "bowler",
     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/263500/263578.jpg"
   },
   {
     "id": "20",
     "name": "Matheesha Pathirana",
-    "postion": "bowler",
+    "position": "bowler",
     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/350000/350094.4.jpg"
   },
   {
     "id": "21",
     "name": "Simarjeet Singh",
-    "postion": "bowler",
+    "position": "bowler",
     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/356800/356835.1.png"
   },
   {
     "id": "22",
     "name": "Prashant Solanki",
-    "postion": "bowler",
+    "position": "bowler",
     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/356800/356836.1.png"
   },
   {
     "id": "23",
     "name": "Shardul Thakur",
-    "postion": "bowler",
+    "position": "bowler",
     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/302300/302372.jpg"
   },
   {
     "id": "24",
     "name": "Maheesh Theekshana",
-    "postion": "bowler",
+    "position": "bowler",
     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/336200/336296.4.jpg"
   },
   {
     "id": "25",
     "name": "Sameer Rizvi",
-    "postion": "",
+    "position": "",
     "image": "https://wassets.hscicdn.com/static/images/player-jersey.svg"
   }
 ]
