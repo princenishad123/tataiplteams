@@ -1,0 +1,152 @@
+[
+  {
+    "id": "rcb1",
+    "name": "Anuj Rawat",
+    "position": "wicket-keeper",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/357600/357621.7.jpg"
+  },
+  {
+    "id": "rcb2",
+    "name": "Dinesh Karthik",
+    "position": "wicket-keeper",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/304100/304195.png"
+  },
+  {
+    "id": "rcb3",
+    "name": "Faf du Plessis",
+    "position": "batter",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/317900/317961.jpg"
+  },
+  {
+    "id": "rcb4",
+    "name": "Saurav Chauhan",
+    "position": "batter",
+    "image": "https://wassets.hscicdn.com/static/images/player-jersey.svg"
+  },
+  {
+    "id": "rcb5",
+    "name": "Virat Kohli",
+    "position": "batter",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/289000/289002.1.jpg"
+  },
+  {
+    "id": "rcb6",
+    "name": "Rajat Patidar",
+    "position": "batter",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/289000/289002.1.jpg"
+  },
+  {
+    "id": "rcb7",
+    "name": "Akash Deep",
+    "position": "all-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/356800/356814.1.png"
+  },
+  {
+    "id": "rcb8",
+    "name": "Manoj Bhandage",
+    "position": "all-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/357600/357622.4.jpg"
+  },
+  {
+    "id": "rcb9",
+    "name": "Tom Curran",
+    "position": "all-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/304900/304934.jpg"
+  },
+  {
+    "id": "rcb10",
+    "name": "Cameron Green",
+    "position": "all-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/315600/315603.jpg"
+  },
+  {
+    "id": "rcb11",
+    "name": "Will Jacks",
+    "position": "all-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/296200/296209.1.jpg"
+  },
+  {
+    "id": "rcb12",
+    "name": "Mahipal Lomror",
+    "position": "all-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/315000/315015.jpg"
+  },
+  {
+    "id": "rcb13",
+    "name": "Glenn Maxwell",
+    "position": "all-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/263500/263539.1.jpg"
+  },
+  {
+    "id": "rcb14",
+    "name": "Suyash Prabhudessai",
+    "position": "all-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/357600/357630.4.jpg"
+  },
+  {
+    "id": "rcb15",
+    "name": "Mayank Dagar",
+    "position": "bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/356800/356822.1.png"
+  },
+  {
+    "id": "rcb16",
+    "name": "Lockie Ferguson",
+    "position": "bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/303800/303800.png"
+  },
+  {
+    "id": "rcb17",
+    "name": "Alzarri Joseph",
+    "position": "bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/321900/321943.png"
+  },
+  {
+    "id": "rcb18",
+    "name": "Mohammed Siraj",
+    "position": "bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/315600/315604.jpg"
+  },
+  {
+    "id": "rcb19",
+    "name": "Rajan Kumar",
+    "position": "bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/357600/357625.4.jpg"
+  },
+  {
+    "id": "rcb20",
+    "name": "Himanshu Sharma",
+    "position": "bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/357600/357624.4.jpg"
+  },
+  {
+    "id": "rcb21",
+    "name": "Karn Sharma",
+    "position": "bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/309100/309104.png"
+  },
+  {
+    "id": "rcb22",
+    "name": "Swapnil Singh",
+    "position": "bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/362600/362607.1.png"
+  },
+  {
+    "id": "rcb23",
+    "name": "Reece Topley",
+    "position": "bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/356800/356811.1.png"
+  },
+  {
+    "id": "rcb24",
+    "name": "Vijaykumar Vyshak",
+    "position": "bowler",
+    "image": "https://wassets.hscicdn.com/static/images/player-jersey.svg"
+  },
+  {
+    "id": "rcb25",
+    "name": "Yash Dayal",
+    "position": "bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/357400/357416.2.jpg"
+  }
+]
